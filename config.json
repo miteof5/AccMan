@@ -1,0 +1,9 @@
+{
+  "window_title": "原神",
+  "template": "assets/template_logo.png",
+  "offsets": {
+    "field1": [96, 93],
+    "field2": [96, 149]
+  },
+  "threshold": 0.75
+}

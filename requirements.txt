@@ -1,0 +1,10 @@
+customtkinter==6.0.0
+opencv-python
+numpy
+Pillow
+pyautogui
+pygetwindow
+pyperclip
+mss
+pywin32
+pywinauto

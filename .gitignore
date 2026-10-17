@@ -1,0 +1,17 @@
+# 用户数据（真实账号，DPAPI 加密）—— 绝对不进仓库
+accounts.enc
+
+# 依赖包目录（用 requirements.txt 代替）
+vendor/
+
+# 打包中间产物
+build/
+dist/*.spec
+__pycache__/
+*.pyc
+
+# 开发时的临时文件
+assets/login_sample.png
+analyze_login.py
+
+assets/verify_coords.png
